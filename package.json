@@ -9,7 +9,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "morgan": "^1.9.1",
     "@auth0/auth0-spa-js": "1.0.0-beta.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.17",
